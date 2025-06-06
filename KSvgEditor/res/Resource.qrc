@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/freehand.svg</file>
+        <file>icons/hexagon.svg</file>
+        <file>icons/line.svg</file>
+        <file>icons/pentagon.svg</file>
+        <file>icons/rectangle.svg</file>
+        <file>icons/select.svg</file>
+        <file>icons/star.svg</file>
+        <file>icons/text.svg</file>
+        <file>icons/zoom.svg</file>
+        <file>icons/ellipse.svg</file>
+    </qresource>
+</RCC>
